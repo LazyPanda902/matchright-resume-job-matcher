@@ -1,5 +1,11 @@
 # MatchRight Resume Job Matcher
 
+<!-- portfolio-card -->
+<p align="center">
+  <img src="docs/assets/project-card.svg" alt="matchright-resume-job-matcher project card" width="100%" />
+</p>
+<!-- /portfolio-card -->
+
 MatchRight is a FastAPI and Streamlit app that compares resume text against a job description, calculates a semantic match score, identifies keyword gaps, and returns practical suggestions.
 
 It is built as a portfolio-ready NLP project for candidate-job alignment. The backend exposes a clean API, while the Streamlit UI gives recruiters, students, or job seekers a simple way to test resume/job fit locally.
